@@ -250,7 +250,7 @@
         {
           "type": "checkbox",
           "id": "viewall",
-          "label": "Ver más,
+          "label": "Ver más",
           "default": true
         }
       ]
